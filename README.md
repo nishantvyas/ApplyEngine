@@ -9,13 +9,12 @@ This is the official GitHub repository for tracking features, bugs, and communit
 
 ## 🤝 How to Contribute
 
-### Reporting Issues
+### Reporting Issues / Requesting Features
 Found a bug or have a feature request? We'd love to hear from you!
 
 1. Go to the [Issues tab](https://github.com/nishantvyas/applyengine/issues)
 2. Click "New Issue"
-3. Choose the appropriate template
-4. Provide as much detail as possible
+3. Provide as much detail as possible
 
 ### Joining Discussions
 Want to connect with other users or share your experience?
