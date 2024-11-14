@@ -1,25 +1,48 @@
-# About ApplyEngine.AI
+# ApplyEngine.AI - Support & Community
 
-## Transform Your Job Search Journey 🚀
+This is the official GitHub repository for tracking features, bugs, and community discussions for the ApplyEngine.AI Chrome extension.
 
-Tired of spending countless hours manually filling out job applications? ApplyEngine.AI is here to revolutionize your job search with AI-powered automation, all while ensuring your data remains completely private.
+## 🔗 Quick Links
+- [Official Website](https://applyengine.ai)
+- [Issues](https://github.com/nishantvyas/applyengine/issues)
+- [Discussions](https://github.com/nishantvyas/applyengine/discussions)
 
-### 🌟 What You'll Get
+## 🤝 How to Contribute
 
-With ApplyEngine.AI Premium, you get everything you already love about the ApplyEngine Extension, plus so much more:
+### Reporting Issues
+Found a bug or have a feature request? We'd love to hear from you!
 
-- **Unlimited AI-Powered AutoFill**: Apply to jobs in seconds, not hours.
-- **Unlimited AI Resume Tailoring**: Customize your resume for each application effortlessly.
-- **Unlimited Cover Letter Generator**: Create compelling, personalized cover letters with ease.
-- **Use Your Own OpenAI API Key**: Maintain complete control over AI costs and usage.
-- **Privacy First**: Your data stays on your device - we never store it on our servers.
+1. Go to the [Issues tab](https://github.com/nishantvyas/applyengine/issues)
+2. Click "New Issue"
+3. Choose the appropriate template
+4. Provide as much detail as possible
 
-### Additional Premium Features
+### Joining Discussions
+Want to connect with other users or share your experience?
 
-- **Persistent Data Storage**: Your information stays saved until you clear it manually or uninstall - no more daily resets.
-- **Data Export**: Easily download and backup your data.
-- **Email Support**: Get help whenever you need it.
-- **Lifetime Updates**: Enjoy free access to all future versions.
-- **Premium Features**: Access all new premium features and improvements for 12 months after purchase.
-- **Vote on Roadmap Features**: Influence the future of ApplyEngine.AI by voting on upcoming features.
+1. Visit our [Discussions page](https://github.com/nishantvyas/applyengine/discussions)
+2. Browse existing topics or start a new one
+3. Share your thoughts, ideas, or questions
+
+## 💡 Categories for Discussion
+
+- 📣 Announcements: Stay updated with the latest news
+- 💬 General: Open discussions about ApplyEngine
+- 💡 Ideas: Share your suggestions for improvement
+- 🙏 Q&A: Get help from the community
+- 🙌 Show and tell: Share your success stories
+
+## ℹ️ About ApplyEngine.AI
+
+ApplyEngine.AI is a Chrome extension that revolutionizes your job search with:
+- AI-powered application autofill
+- Resume tailoring
+- Cover letter generation
+- Complete data privacy (your data stays on your device)
+- Integration with your own OpenAI API key
+
+For more information about features and pricing, visit [applyengine.ai](https://applyengine.ai)
+
+## 📝 Note
+This repository is for community support and feature tracking only. The extension's source code is not hosted here.
 
