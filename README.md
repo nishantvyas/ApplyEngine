@@ -23,7 +23,7 @@ Want to connect with other users or share your experience?
 2. Browse existing topics or start a new one
 3. Share your thoughts, ideas, or questions
 
-## 💡 Categories for Discussion
+### 💡 Categories for Discussion
 
 - 📣 Announcements: Stay updated with the latest news
 - 💬 General: Open discussions about ApplyEngine
