@@ -1,4 +1,4 @@
-# ApplyEngine.AI - Support & Community
+# ApplyEngine.AI - Community & Support
 
 This is the official GitHub repository for tracking features, bugs, and community discussions for the ApplyEngine.AI Chrome extension.
 
